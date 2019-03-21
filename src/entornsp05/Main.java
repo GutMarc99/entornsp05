@@ -2,7 +2,7 @@ package entornsp05;
 
 public class Main {
 	
-	private static final int NUM_TORRES = 3;
+	private static final int NUM_TORRES = 4;
 
 	public static void main(String[] args) {
 		Main programa = new Main();
